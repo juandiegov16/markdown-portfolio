@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Musical instruments I play:** Guitar
+
+**Programming languages:** _Python, Java, C_
+
+**Other skills:** SQL, HTML, CSS
